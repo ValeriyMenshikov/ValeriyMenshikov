@@ -1,8 +1,6 @@
 ## I'm Valeriy Menshikov Lead QA Automation Engineer
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ValeriyMenshikov&theme=dark&show_icons=true&hide=issues,contribs)](https://github.com/ValeriyMenshikov/)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValeriyMenshikov&theme=dark&langs_count=8&layout=compact)](https://github.com/ValeriyMenshikov/)
-
 
 ### Connect with me:
 [![Instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/menshikov_valeriy)
