@@ -1,4 +1,4 @@
-## I'm Valeriy Menshikov Lead QA Automation Engineer
+## Lead QA Automation Engineer
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ValeriyMenshikov&theme=dark&show_icons=true&hide=issues,contribs)](https://github.com/ValeriyMenshikov/)  
 
