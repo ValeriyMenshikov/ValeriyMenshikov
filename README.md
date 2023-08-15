@@ -1,6 +1,16 @@
 ## Lead QA Automation Engineer
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ValeriyMenshikov&theme=dark&show_icons=true&hide=issues,contribs)](https://github.com/ValeriyMenshikov/)  
+
+<!--Git Stats-->
+
+&#8287;&#8287;&#8287;&#8287;&#8287;
+
+## :bar_chart:Git stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValeriyMenshikov&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ValeriyMenshikov&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ValeriyMenshikov&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ValeriyMenshikov&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ValeriyMenshikov&theme=dark&utcOffset=8)
 
 ### Connect with me:
 [![Instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/menshikov_valeriy)
