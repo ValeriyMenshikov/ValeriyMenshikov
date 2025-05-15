@@ -23,5 +23,6 @@ You can find my training sessions through the link. I also run a Telegram channe
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValeriyMenshikov&repo=restcodegen&theme=dark)](https://github.com/ValeriyMenshikov/restcodegen)
+[![restcodegen](https://github-readme-stats.vercel.app/api/pin/?username=ValeriyMenshikov&repo=restcodegen&theme=dark)](https://github.com/ValeriyMenshikov/restcodegen)
+[![pbreflect](https://github-readme-stats.vercel.app/api/pin/?username=ValeriyMenshikov&repo=pbreflect&theme=dark)](https://github.com/ValeriyMenshikov/restcodegen)
 
