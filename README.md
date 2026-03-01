@@ -13,16 +13,24 @@ You can find my training sessions through the link. I also run a Telegram channe
 [![Telegram Channel](https://img.shields.io/badge/-telegram_channel-090909?style=for-the-badge&logo=telegram)](https://t.me/AQA_Engineer)
 [![WebSite](https://img.shields.io/badge/-Learn_with_Me-090909?style=for-the-badge&logo=librariesdotio)](https://aqa-engineer.com)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ValeriyMenshikov&theme=darkhub&no-bg=true&no-frame=true)
+![trophy](https://github-trophies.vercel.app/?username=ValeriyMenshikov&theme=darkhub&no-bg=true&no-frame=true)
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValeriyMenshikov&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ValeriyMenshikov&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ValeriyMenshikov&theme=dark)
-
-![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
-
-[![restcodegen](https://github-readme-stats.vercel.app/api/pin/?username=ValeriyMenshikov&repo=restcodegen&theme=dark)](https://github.com/ValeriyMenshikov/restcodegen)
-[![pbreflect](https://github-readme-stats.vercel.app/api/pin/?username=ValeriyMenshikov&repo=pbreflect&theme=dark)](https://github.com/ValeriyMenshikov/pbreflect)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValeriyMenshikov&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ValeriyMenshikov&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ValeriyMenshikov&theme=dark)
+ 
+ ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+ 
+ | [**restcodegen**](https://github.com/ValeriyMenshikov/restcodegen) |
+ | --- |
+ | ![](https://img.shields.io/github/stars/ValeriyMenshikov/restcodegen?style=for-the-badge&logo=github&color=090909) ![](https://img.shields.io/github/forks/ValeriyMenshikov/restcodegen?style=for-the-badge&logo=github&color=090909) ![](https://img.shields.io/github/issues/ValeriyMenshikov/restcodegen?style=for-the-badge&logo=github&color=090909) ![](https://img.shields.io/github/last-commit/ValeriyMenshikov/restcodegen?style=for-the-badge&logo=github&color=090909) ![](https://img.shields.io/github/license/ValeriyMenshikov/restcodegen?style=for-the-badge&logo=github&color=090909) ![](https://img.shields.io/github/languages/top/ValeriyMenshikov/restcodegen?style=for-the-badge&logo=python&color=090909) |
+ 
+ | [**pbreflect**](https://github.com/ValeriyMenshikov/pbreflect) |
+ | --- |
+ | ![](https://img.shields.io/github/stars/ValeriyMenshikov/pbreflect?style=for-the-badge&logo=github&color=090909) ![](https://img.shields.io/github/forks/ValeriyMenshikov/pbreflect?style=for-the-badge&logo=github&color=090909) ![](https://img.shields.io/github/issues/ValeriyMenshikov/pbreflect?style=for-the-badge&logo=github&color=090909) ![](https://img.shields.io/github/last-commit/ValeriyMenshikov/pbreflect?style=for-the-badge&logo=github&color=090909) ![](https://img.shields.io/github/license/ValeriyMenshikov/pbreflect?style=for-the-badge&logo=github&color=090909) ![](https://img.shields.io/github/languages/top/ValeriyMenshikov/pbreflect?style=for-the-badge&logo=python&color=090909) |
+ 
+ | [**e2efast**](https://github.com/ValeriyMenshikov/e2efast) |
+ | --- |
+ | ![](https://img.shields.io/github/stars/ValeriyMenshikov/e2efast?style=for-the-badge&logo=github&color=090909) ![](https://img.shields.io/github/forks/ValeriyMenshikov/e2efast?style=for-the-badge&logo=github&color=090909) ![](https://img.shields.io/github/issues/ValeriyMenshikov/e2efast?style=for-the-badge&logo=github&color=090909) ![](https://img.shields.io/github/last-commit/ValeriyMenshikov/e2efast?style=for-the-badge&logo=github&color=090909) ![](https://img.shields.io/github/license/ValeriyMenshikov/e2efast?style=for-the-badge&logo=github&color=090909) ![](https://img.shields.io/github/languages/top/ValeriyMenshikov/e2efast?style=for-the-badge&logo=python&color=090909) |
